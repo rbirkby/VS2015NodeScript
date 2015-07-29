@@ -18,6 +18,6 @@ Demonstrates how integrated node, gulp, npm and bower are with a DNX/.Net45/ASPN
 14. Show how gulp tasks can be bound to different Visual Studio events. Right click on a task and choose the binding
 15. Rebuild - <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>b</kbd> - to see the task being run
 
-!!!Bonus points
+### Bonus points
 
 Website can be run with ```dnx . web```
