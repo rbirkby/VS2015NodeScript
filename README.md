@@ -21,3 +21,8 @@ Demonstrates how integrated node, gulp, npm and bower are with a DNX/.Net45/ASPN
 ### Bonus points
 
 Website can be run with ```dnx . web```
+
+Build 2015:
+
+Scott Hunter: You may ask why are we bring bower into visual studio, when we have nuget already
+Scott Hanselman: Because the whole world uses it
